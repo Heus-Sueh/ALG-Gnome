@@ -102,16 +102,14 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI XFCE
-xfce4
-xfce4-goodies
-xfce4-pulseaudio-plugin
+#Arch Linux GUI Gnome
+gdm
+gnome
+gnome-tweaks
+extension-manager
 xorg-server
 xorg-xrandr
 xorg-xkill
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
 flatpak
 xdg-user-dirs
 bash-completion
@@ -123,6 +121,7 @@ gvfs
 gvfs-mtp
 neofetch
 android-tools
+xf86-input-libinput
 
 #Installer
 grub
@@ -139,11 +138,11 @@ pavucontrol
 #Bluetooth
 bluez
 bluez-utils
-blueman
+gnome-bluetooth
 
 #Icons & Themes
 qogir-gtk-theme
-papirus-icon-theme
+tela-circle-icon-theme-git 
 
 #Fonts
 ttf-ms-fonts
@@ -169,8 +168,6 @@ vlc
 neofetch
 xdotool
 libreoffice-fresh
-gparted
-galculator
-catfish
 file-roller
 git
+gnome-boxes
