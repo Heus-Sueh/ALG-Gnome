@@ -142,7 +142,7 @@ gnome-bluetooth
 
 #Icons & Themes
 qogir-gtk-theme
-tela-circle-icon-theme-git 
+tela-circle-icon-theme-git
 
 #Fonts
 ttf-ms-fonts
@@ -158,16 +158,16 @@ paru
 
 #GPU & iGPU drivers & settings
 xf86-video-intel
-nvidia
-nvidia-utils
-nvidia-settings
+#nvidia
+#nvidia-utils
+#nvidia-settings
 
 #Applications
 firefox
 vlc
 neofetch
 xdotool
-libreoffice-fresh
+#libreoffice-fresh
 file-roller
 git
 gnome-boxes
